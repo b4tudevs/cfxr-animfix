@@ -1,5 +1,5 @@
 # Animasyon Fix
-- (https://discord.gg/beyazilim)]
+- https://discord.gg/beyazilim
 - dicord @cfx.r
 
 - KULLANDIĞIN ANİMASYON BUGTA KALIRSA İŞİNE YARAR VE ANİMFİX YAZARAK DÜZELTİRSİN
