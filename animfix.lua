@@ -31,5 +31,5 @@ RegisterCommand("discord", function()
 end, false)
 
 function msg(text)
-    TriggerEvent("QBCore:Notify", "[System]", {255, 0, 0,}, text)
+    TriggerEvent("chatMessage", "[System]", {255, 0, 0,}, text)
 end
